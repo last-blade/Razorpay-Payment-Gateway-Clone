@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 # Razorpay-Payment-Gateway-Clone
-=======
-# Razorpay-Clone
 Razorpay-Clone is a visually stunning and responsive frontend web application created using HTML, CSS, and Tailwind CSS. This project aims to replicate the user interface of the renowned payment gateway service, Razorpay. Please note that this project does not include any backend functionalities; it focuses solely on the frontend layout and design.
 
 ## Features
@@ -26,4 +23,3 @@ related to enhancing the UI/UX, optimizing styles, and refining responsiveness a
     
     Feel free to explore the Razorpay-Clone frontend for inspiration and reference in your projects. 
     Remember, this project is a personal endeavor and not meant for collaborative contributions. Enjoy exploring and learning from the code!
->>>>>>> 4985031 (Initial commit)
