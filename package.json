@@ -1,0 +1,19 @@
+{
+  "name": "tailwind_demo",
+  "version": "1.0.0",
+  "description": "Tailwind",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tailwind": "tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "feather": "^0.0.5",
+    "vite": "^4.4.7"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.3.3"
+  }
+}
